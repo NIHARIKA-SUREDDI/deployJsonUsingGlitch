@@ -1,4 +1,133 @@
 {
+
+    "users": [
+      { "id": 1, "name": "Niharika" },
+      { "id": 2, "name": "Harshini" }
+    ],
+  
+  
+  "products":[
+    {
+      "name": "Product 1",
+      "category": "Electronics",
+      "price": 100,
+      "rating": 4.5
+  },
+  {
+      "name": "Product 2",
+      "category": "Clothing",
+      "price": 50,
+      "rating": 4.0
+  },
+  {
+      "name": "Product 3",
+      "category": "Books",
+      "price": 20,
+      "rating": 4.7
+  },
+  {
+      "name": "Product 4",
+      "category": "Electronics",
+      "price": 200,
+      "rating": 4.3
+  },
+  {
+      "name": "Product 5",
+      "category": "Furniture",
+      "price": 300,
+      "rating": 4.1
+  },
+  {
+      "name": "Product 6",
+      "category": "Sports",
+      "price": 40,
+      "rating": 4.8
+  },
+  {
+      "name": "Product 7",
+      "category": "Electronics",
+      "price": 150,
+      "rating": 4.2
+  },
+  {
+      "name": "Product 8",
+      "category": "Clothing",
+      "price": 70,
+      "rating": 4.5
+  },
+  {
+      "name": "Product 9",
+      "category": "Books",
+      "price": 25,
+      "rating": 4.6
+  },
+  {
+      "name": "Product 10",
+      "category": "Electronics",
+      "price": 120,
+      "rating": 4.0
+  },
+  {
+      "name": "Product 11",
+      "category": "Furniture",
+      "price": 350,
+      "rating": 4.4
+  },
+  {
+      "name": "Product 12",
+      "category": "Sports",
+      "price": 60,
+      "rating": 4.7
+  },
+  {
+      "name": "Product 13",
+      "category": "Clothing",
+      "price": 30,
+      "rating": 4.8
+  },
+  {
+      "name": "Product 14",
+      "category": "Electronics",
+      "price": 110,
+      "rating": 4.6
+  },
+  {
+      "name": "Product 15",
+      "category": "Furniture",
+      "price": 200,
+      "rating": 4.2
+  },
+  {
+      "name": "Product 16",
+      "category": "Sports",
+      "price": 90,
+      "rating": 4.3
+  },
+  {
+      "name": "Product 17",
+      "category": "Books",
+      "price": 15,
+      "rating": 4.9
+  },
+  {
+      "name": "Product 18",
+      "category": "Clothing",
+      "price": 80,
+      "rating": 4.1
+  },
+  {
+      "name": "Product 19",
+      "category": "Electronics",
+      "price": 140,
+      "rating": 4.3
+  },
+  {
+      "name": "Product 20",
+      "category": "Furniture",
+      "price": 250,
+      "rating": 4.0
+  }
+  ],
   "posts": [
     {
       "id": "1",
