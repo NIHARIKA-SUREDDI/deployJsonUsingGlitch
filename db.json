@@ -2,7 +2,8 @@
 
     "users": [
       { "id": 1, "name": "Niharika" },
-      { "id": 2, "name": "Harshini" }
+      { "id": 2, "name": "Harshini" },
+      { "id": 3, "name": "teju" }
     ],
   
   
