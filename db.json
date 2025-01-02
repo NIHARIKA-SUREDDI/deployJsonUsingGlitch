@@ -1,4 +1,32 @@
 {
+
+  "product":[
+    {
+     "productimage":"https://www.sephora.com/productimages/sku/s2816551-main-zoom.jpg?imwidth=332",
+     "productname":"Honey infused hydrating Lip oil",
+     "price":"$28.00",
+     "Rating":"4.5",
+     "productid":"1"
+    },
+    {
+      "productimage":"https://www.sephora.com/productimages/sku/s2808517-main-zoom.jpg?imwidth=332",
+      "productname":"Mini Vanilla Perfume Duo",
+      "price":"$29.00",
+      "Rating":"4.4",
+      "productid":"2"
+
+    },
+
+    {
+      "productimage":"https://www.sephora.com/productimages/sku/s2814317-main-zoom.jpg?imwidth=332",
+      "productname":"Hydrating Peptide LipCream",
+      "price":"$22.00",
+      "Rating":"4.3",
+      "productid":"3"
+    }
+   
+
+  ],
   "questions":[
     {
       
